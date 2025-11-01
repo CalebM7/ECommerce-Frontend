@@ -8,6 +8,8 @@ import Cart from './pages/Cart';
 import Login from './pages/Login';
 import Orders from './pages/Orders';
 import Navbar from './components/Navbar';
+import About from './pages/About';
+import PlaceOrder from './pages/PlaceOrder';
 
 const App = () => {
   return (
